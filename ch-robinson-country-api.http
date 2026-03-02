@@ -1,0 +1,6 @@
+@ch_robinson_country_api_HostAddress = http://localhost:5029
+
+GET {{ch_robinson_country_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
